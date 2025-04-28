@@ -12,9 +12,9 @@ const backgroundURL = "https://deposit.pictures/p/6f5572d01536484fa9a7efe1c7bc14
 
 // Data pembayaran yang bisa diubah
 const paymentData = {
-    Dana: "0881012391309", // NOPE DANA LU
-    Ovo: "0881012391309", // NOPE OVO LU
-    Gopay: "0881012391309" // NOPE GOPAY LU
+    Dana: "082317950014", // NOPE DANA LU
+    Ovo: "082254603842", // NOPE OVO LU
+    Gopay: "gada" // NOPE GOPAY LU
 }; //NOTE UBAH TAPI JAN APUS TANDA " NYA
 
 //MAU UBAH NAMA NAMA WEB NOMOR SAMA EMAIL DI BAGIAN HUBUNGI SAYA? KE FILE INDEX.HTML 
