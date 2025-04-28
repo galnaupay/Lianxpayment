@@ -1,20 +1,20 @@
 // GANTI PAKE LINK FOTO QRIS LU
-const qrisURL = "https://deposit.pictures/p/13a16c4ca5174e29b70dd5cebacadee6";
+const qrisURL = "https://files.catbox.moe/7r2zfw.jpg";
 
 // GANTI PAKE LINK FOTO QRIS LU
-const feemcURL = "https://deposit.pictures/p/a8c60795fb1d4166818786dc1a315aa5";
+const feemcURL = "https://files.catbox.moe/wijbtr.jpg";
 
 // GANTI PAKE LINK FOTO QRIS LU
-const tahapanmcURL = "https://deposit.pictures/p/e8566c203d0e479f83abc324682177fb";
+const tahapanmcURL = "https://files.catbox.moe/y9z53q.jpg";
 
 // GANTI PAKE FOTO BACKGROUND LU
-const backgroundURL = "https://deposit.pictures/p/6f5572d01536484fa9a7efe1c7bc14b4";
+const backgroundURL = "https://files.catbox.moe/y9z53q.jpg";
 
 // Data pembayaran yang bisa diubah
 const paymentData = {
     Dana: "082317950014", // NOPE DANA LU
-    Ovo: "082254603842", // NOPE OVO LU
-    Gopay: "gada" // NOPE GOPAY LU
+    Ovo: "gada", // NOPE OVO LU
+    Gopay: "082254603842" // NOPE GOPAY LU
 }; //NOTE UBAH TAPI JAN APUS TANDA " NYA
 
 //MAU UBAH NAMA NAMA WEB NOMOR SAMA EMAIL DI BAGIAN HUBUNGI SAYA? KE FILE INDEX.HTML 
