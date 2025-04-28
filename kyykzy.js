@@ -8,7 +8,7 @@ const feemcURL = "https://files.catbox.moe/wijbtr.jpg";
 const tahapanmcURL = "https://files.catbox.moe/y9z53q.jpg";
 
 // GANTI PAKE FOTO BACKGROUND LU
-const backgroundURL = "https://files.catbox.moe/y9z53q.jpg";
+const backgroundURL = "https://files.catbox.moe/icb9u7.jpg";
 
 // Data pembayaran yang bisa diubah
 const paymentData = {
